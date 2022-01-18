@@ -60,7 +60,7 @@
 }
 
 .main-head {
-    font-size: 64px;
+    font-size: 41px;
     font-weight: 700;
     line-height: 1.2;
     font-family: Nunito;
@@ -156,4 +156,29 @@
 }
 .f-text{
     color:#878787;
+}
+
+.logo-text{
+    font-weight: 700;
+    line-height: 1.2;
+    font-family: Nunito;
+    color: #202b50;
+    background: -webkit-linear-gradient(#202b50, #0fe0d8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
+}
+
+.nav-text{
+        font-weight: 600;
+    font-family: Nunito;
+    color: #202b50;
+    background: -webkit-linear-gradient(#0fe0d8, #202b50);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 14px;
+}
+.dropdown-toggle::after {
+    
+    vertical-align: 0.055em;
 }
