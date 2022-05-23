@@ -94,7 +94,7 @@
 .para-st-1{
     font-size: 16px;
     font-weight: 500;
-    text-align: left;
+    text-align: center;
     margin-bottom: 3%;
 }
 .sub-head-1{
@@ -181,4 +181,51 @@
 .dropdown-toggle::after {
     
     vertical-align: 0.055em;
+}
+/***************** slider style *****************/
+
+.sec-3{
+    overflow: hidden;
+}
+.main-slider .item .S-box img{
+    width: 45%;
+}
+.main-box{
+    width: 100%;
+   position: relative; 
+}
+.main-box .conatiner{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    /* margin: 10% 10%;    
+    width: 151%; */
+    margin: 4% 2%;
+    width: 160%;
+    padding: 1% 0;
+    overflow: hidden;
+}
+.conatiner .item{
+    justify-content: center;
+    width: 20%;
+    margin: 0 2%;
+}
+.slide-buttons{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+position: absolute;
+width: 100%;
+top: 50%;
+/* align-items: center; */
+transform: translate(0 , -50%);
+}
+.slide-buttons button{
+color: #000;
+background: #eeeeee;
+box-shadow: 0 0 15px 0px #c2c2c2;
+border-radius: 50%;
+width: 50px;
+height: 50px;
+border: 0px;    
 }
