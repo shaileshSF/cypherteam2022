@@ -1,0 +1,4 @@
+[20-04-2022 08:41:09] Error E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wordpress/wp-content/uploads/wpcf7_uploads/617325560625fc725520b0.tmp in C:\xampp\htdocs\wordpress\wp-content\plugins\contact-form-7\includes\file.php:347
+[20-04-2022 08:41:09] Error E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wordpress/wp-content/uploads/wpcf7_uploads/964019523625fc7255212c.tmp in C:\xampp\htdocs\wordpress\wp-content\plugins\contact-form-7\includes\file.php:347
+
+[20-04-2022 08:41:38] Error E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wordpress/wp-content/uploads/wpcf7_uploads/447281993625fc74213f67.tmp in C:\xampp\htdocs\wordpress\wp-content\plugins\contact-form-7\includes\file.php:347
